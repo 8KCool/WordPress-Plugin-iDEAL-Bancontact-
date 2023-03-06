@@ -93,8 +93,3 @@ cause invalid signature errors. The WordPress HTTPS plugin parses the complete
 output of an WordPress website and changes 'http' URLs to 'https' URLs, this 
 results in OmniKassa data that no longer matches the signature.
 
-
-## Links
-
-*	[Pronamic](https://www.pronamic.eu/)
-*	[Remco Tolsma](https://www.remcotolsma.nl/)
